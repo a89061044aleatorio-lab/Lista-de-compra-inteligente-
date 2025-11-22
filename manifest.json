@@ -1,0 +1,17 @@
+{
+  "name": "Lista de Compras Inteligente",
+  "short_name": "Lista",
+  "description": "An intelligent shopping list application that organizes items by category, tracks total cost, and manages a budget. Features user accounts, list history, and a clean, intuitive interface.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f1f5f9",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
